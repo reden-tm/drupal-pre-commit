@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "drupal/coder": "master-dev"
+        "drupal/coder": "8.2.0@beta1"
     },
     "bin": [
         "pre-commit"
