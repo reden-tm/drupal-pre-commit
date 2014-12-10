@@ -8,9 +8,8 @@
             "email": "reden@theatermania.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "drupal/coder": "8.2.0-beta1"
+        "drupal/coder": "8.2.0-beta1@dev"
     },
     "bin": [
         "pre-commit"
