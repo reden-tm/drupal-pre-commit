@@ -1,0 +1,15 @@
+{
+    "name": "reden/drupal-pre-commit",
+    "description": "A Drupal pre-commit hook to filter php, js, and css syntax errors. This script also checks the file(s) to make sure that the Drupal coding standard is being followed. Forked from https://github.com/geraldvillorente/drupal-pre-commit",
+    "license": "CCPL",
+    "authors": [
+        {
+            "name": "Rob Eden",
+            "email": "reden@theatermania.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "drupal/coder": "7.2"
+    },
+}
