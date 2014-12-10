@@ -8,14 +8,8 @@
             "email": "reden@theatermania.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "http://git.drupal.org/project/coder.git"
-        }
-    ],
     "require": {
-        "drupal/coder": "8.x-2.0-beta1"
+        "drupal/coder": "*"
     },
     "bin": [
         "pre-commit"
