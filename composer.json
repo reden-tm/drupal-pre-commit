@@ -11,5 +11,5 @@
     "require": {},
     "require-dev": {
         "drupal/coder": "7.2"
-    },
+    }
 }
